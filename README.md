@@ -33,7 +33,7 @@ Note Taker is an application that allows users to write, save, and delete notes.
    node server.js
    
 
-2. Open your browser and go to `http://localhost:3000` to use the application.
+2. Open your browser and go to `http://localhost:3001` to use the application.
 
 ## API Routes
 
